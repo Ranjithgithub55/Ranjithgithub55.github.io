@@ -21,3 +21,4 @@ file_put_contents($proxyListFile, implode("\n", $filteredProxies));
 
 echo "Proxies saved to " . $proxyListFile;
 
+?>
